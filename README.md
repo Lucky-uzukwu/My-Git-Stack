@@ -14,4 +14,8 @@ git reset --hard
 #### Explanation : 
 This would undo all local changes you made to files in a branch
 
+### Force Checkout of a branch
+git checkout $BRANCH_NAME --force
+#### Explanation : 
+This forcefully checks out of a branch
 
