@@ -21,7 +21,7 @@ This forcefully checks out of a branch
 
 
 ## Rename a branch
-git branch -m <old> <new>
+git branch -m [old] [new]
 #### Explanation : 
 This renames a branch to your preffered name
 
